@@ -1,0 +1,29 @@
+h1 {
+    width: 100%;
+    color: #C38998;
+    font-weight: bold;
+    font-size: 64px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+tr, td {
+    margin: auto;
+    text-align: center;
+    border: black solid 5px;
+    width: 125px;
+}
+
+.assign_table {
+    display: flex;
+    justify-content: center;
+}
+
+.rotation {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: rgb(136 138 152);
+}
